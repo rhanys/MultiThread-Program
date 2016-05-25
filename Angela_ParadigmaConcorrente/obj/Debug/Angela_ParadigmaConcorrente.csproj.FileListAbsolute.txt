@@ -1,0 +1,48 @@
+c:\users\rhanyel\documents\visual studio 2015\Projects\Angela_ParadigmaConcorrente\Angela_ParadigmaConcorrente\bin\Debug\Angela_ParadigmaConcorrente.exe.config
+c:\users\rhanyel\documents\visual studio 2015\Projects\Angela_ParadigmaConcorrente\Angela_ParadigmaConcorrente\bin\Debug\Angela_ParadigmaConcorrente.exe
+c:\users\rhanyel\documents\visual studio 2015\Projects\Angela_ParadigmaConcorrente\Angela_ParadigmaConcorrente\bin\Debug\Angela_ParadigmaConcorrente.pdb
+c:\users\rhanyel\documents\visual studio 2015\Projects\Angela_ParadigmaConcorrente\Angela_ParadigmaConcorrente\obj\Debug\Angela_ParadigmaConcorrente.csprojResolveAssemblyReference.cache
+c:\users\rhanyel\documents\visual studio 2015\Projects\Angela_ParadigmaConcorrente\Angela_ParadigmaConcorrente\obj\Debug\Angela_ParadigmaConcorrente.Form1.resources
+c:\users\rhanyel\documents\visual studio 2015\Projects\Angela_ParadigmaConcorrente\Angela_ParadigmaConcorrente\obj\Debug\Angela_ParadigmaConcorrente.Properties.Resources.resources
+c:\users\rhanyel\documents\visual studio 2015\Projects\Angela_ParadigmaConcorrente\Angela_ParadigmaConcorrente\obj\Debug\Angela_ParadigmaConcorrente.csproj.GenerateResource.Cache
+c:\users\rhanyel\documents\visual studio 2015\Projects\Angela_ParadigmaConcorrente\Angela_ParadigmaConcorrente\obj\Debug\Angela_ParadigmaConcorrente.exe
+c:\users\rhanyel\documents\visual studio 2015\Projects\Angela_ParadigmaConcorrente\Angela_ParadigmaConcorrente\obj\Debug\Angela_ParadigmaConcorrente.pdb
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente\Angela_ParadigmaConcorrente\bin\Debug\ZedGraph.dll
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente\Angela_ParadigmaConcorrente\bin\Debug\ZedGraph.xml
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente\Angela_ParadigmaConcorrente\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente\Angela_ParadigmaConcorrente\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente\Angela_ParadigmaConcorrente\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente\Angela_ParadigmaConcorrente\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente\Angela_ParadigmaConcorrente\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente\Angela_ParadigmaConcorrente\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente\Angela_ParadigmaConcorrente\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente\Angela_ParadigmaConcorrente\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente\Angela_ParadigmaConcorrente\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente\Angela_ParadigmaConcorrente\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente\Angela_ParadigmaConcorrente\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente\Angela_ParadigmaConcorrente\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente\Angela_ParadigmaConcorrente\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente - Rhanyel\Angela_ParadigmaConcorrente\bin\Debug\Angela_ParadigmaConcorrente.exe.config
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente - Rhanyel\Angela_ParadigmaConcorrente\obj\Debug\Angela_ParadigmaConcorrente.exe
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente - Rhanyel\Angela_ParadigmaConcorrente\obj\Debug\Angela_ParadigmaConcorrente.pdb
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente - Rhanyel\Angela_ParadigmaConcorrente\bin\Debug\Angela_ParadigmaConcorrente.exe
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente - Rhanyel\Angela_ParadigmaConcorrente\bin\Debug\Angela_ParadigmaConcorrente.pdb
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente - Rhanyel\Angela_ParadigmaConcorrente\bin\Debug\ZedGraph.dll
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente - Rhanyel\Angela_ParadigmaConcorrente\bin\Debug\ZedGraph.xml
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente - Rhanyel\Angela_ParadigmaConcorrente\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente - Rhanyel\Angela_ParadigmaConcorrente\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente - Rhanyel\Angela_ParadigmaConcorrente\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente - Rhanyel\Angela_ParadigmaConcorrente\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente - Rhanyel\Angela_ParadigmaConcorrente\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente - Rhanyel\Angela_ParadigmaConcorrente\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente - Rhanyel\Angela_ParadigmaConcorrente\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente - Rhanyel\Angela_ParadigmaConcorrente\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente - Rhanyel\Angela_ParadigmaConcorrente\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente - Rhanyel\Angela_ParadigmaConcorrente\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente - Rhanyel\Angela_ParadigmaConcorrente\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente - Rhanyel\Angela_ParadigmaConcorrente\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente - Rhanyel\Angela_ParadigmaConcorrente\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente - Rhanyel\Angela_ParadigmaConcorrente\obj\Debug\Angela_ParadigmaConcorrente.csprojResolveAssemblyReference.cache
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente - Rhanyel\Angela_ParadigmaConcorrente\obj\Debug\Angela_ParadigmaConcorrente.Form1.resources
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente - Rhanyel\Angela_ParadigmaConcorrente\obj\Debug\Angela_ParadigmaConcorrente.Properties.Resources.resources
+C:\Users\Rhanyel\Documents\Visual Studio 2015\Projects\Angela_ParadigmaConcorrente - Rhanyel\Angela_ParadigmaConcorrente\obj\Debug\Angela_ParadigmaConcorrente.csproj.GenerateResource.Cache
